@@ -14,4 +14,4 @@
 - markdown-to-jsx exporta um componente React por padrão para facilitar a composição JSX: 
 - Ícones utilizados: Heroicons: https://heroicons.com/
 
-- ![Captura de tela 2022-06-25 194730](https://user-images.githubusercontent.com/81476932/175792684-6381a630-5e84-4566-b0ae-d4e36cbd1dcd.png)
+ ![Captura de tela 2022-06-25 194730](https://user-images.githubusercontent.com/81476932/175792684-6381a630-5e84-4566-b0ae-d4e36cbd1dcd.png)
